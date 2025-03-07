@@ -34,5 +34,5 @@ Here are some preview images of the quiz in action:
 - ⏳ **Timer Running**  
 - 🎯 **Final Score Display**  
 
- Images are located in the **screenshots** folder.
 
+Screenshots are available in the [screenshots folder](screenshots/).
